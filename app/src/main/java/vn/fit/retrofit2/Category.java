@@ -11,7 +11,7 @@ public class Category implements Serializable {
     @SerializedName("name")
     private String name;
 
-    @SerializedName("image")
+    @SerializedName("images")
     private String image;
 
     @SerializedName("description")
